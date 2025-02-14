@@ -6,8 +6,7 @@ USDT Flash Software is an innovative tool designed for seamless transactions of 
 > [!NOTE] 
 I don't have any other username or channel on telegram. Installation is not free, i'll setup and will be guide with all details. 
 
-**👽 Official Telegram**: @usdtflashsupport
-
+**👽 Official Telegram**: <a href="https://t.me/usdtflashsupport">@USDTFlashSupport</a></br></br>
 <a href="https://t.me/usdtflashsupport"><img src="https://i.ibb.co/XkZRY0G3/usdt-flash-sender.png"/></a>
 
 ## How Does USDT Flash Work?
