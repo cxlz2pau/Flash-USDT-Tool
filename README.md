@@ -6,9 +6,10 @@ USDT Flash Software is an innovative tool designed for seamless transactions of 
 > [!NOTE] 
 We have any username or channel on Telegram. Our official website is only purchase/support address.
 
-**Purchase:** https://usdtflash.cc
-**Support Email (Active):** contact@usdtflash.cc
-**USDT Flash Software User Guide Video:** https://www.youtube.com/watch?v=qvVXHOaWwr0
+**⚜️ Purchase:**  https://usdtflash.cc \
+**📮 Support Email (Active):**  contact@usdtflash.cc \
+**📜 USDT Flash Software User Guide Video:**  https://www.youtube.com/watch?v=qvVXHOaWwr0
+</br>
 
 <a href="https://usdtflash.cc"><img src="https://i.ibb.co/XkZRY0G3/usdt-flash-sender.png"/></a>
 
