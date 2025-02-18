@@ -4,10 +4,13 @@
 USDT Flash Software is an innovative tool designed for seamless transactions of Tether (USDT), one of the most popular stablecoins in the cryptocurrency market. With the increasing demand for fast and efficient digital transactions, USDT Flash offers a robust solution for users looking to send USDT quickly and securely. Whether you are an individual trader or a business, this software simplifies the process of sending and receiving USDT, making it an essential tool for anyone dealing with cryptocurrencies. 
 
 > [!NOTE] 
-I don't have any other username or channel on telegram. Installation is not free, i'll setup and will be guide with all details. 
+We have any username or channel on Telegram. Our official website is only purchase/support address.
 
-**👽 Official Telegram**: <a href="https://t.me/usdtflashsupport">@USDTFlashSupport</a></br></br>
-<a href="https://t.me/usdtflashsupport"><img src="https://i.ibb.co/XkZRY0G3/usdt-flash-sender.png"/></a>
+**Purchase:** https://usdtflash.cc
+**Support Email (Active):** contact@usdtflash.cc
+**USDT Flash Software User Guide Video:** https://www.youtube.com/watch?v=qvVXHOaWwr0
+
+<a href="https://usdtflash.cc"><img src="https://i.ibb.co/XkZRY0G3/usdt-flash-sender.png"/></a>
 
 ## How Does USDT Flash Work?
 The USDT Flash software operates by leveraging advanced blockchain technology to facilitate rapid USDT transfers. Here’s a breakdown of its functionality:
